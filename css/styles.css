@@ -1,0 +1,44 @@
+html, body {
+    margin: 0;
+    overflow: hidden;
+    height: 100%;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 40px;
+    background-color: grey;
+    text-align: center;
+    font-family: tahoma;
+    color: white;
+    font-size: 20px;
+    direction: rtl;
+}
+
+#alternate {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#alternate > .red, #alternate > .green {
+    width: 26px;
+    height: 26px;
+    background-color: red;
+    display: inline-block;
+    margin-top: 4px;
+    vertical-align: middle;
+}
+
+#alternate > .green {
+    background-color: greenyellow;
+}
+
+#c {
+    /* position: fixed; */
+    width: 100%;
+   height: 100%;
+   display: block;
+}
