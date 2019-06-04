@@ -1,4 +1,9 @@
 # othello-threejs
 
-GitHub Link:
-https://github.com/vahed-mrv/othello-threejs
+![screen shot](ScreenShots/02.png  "othello threejs")
+
+
+#### دو نکته در مورد اجرای برنامه:
+
+- به دلیل لود عکس، لطفا پروژه را توسط یک وب سرور بازنمایید.
+- مرورگر Chrome به خوبی پروژه را اجرا می کند ولی متاسفانه FireFox گاهی به درستی پروژه را باز نمی کند.
